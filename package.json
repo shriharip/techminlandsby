@@ -1,0 +1,19 @@
+{
+  "name": "techandminlandsby",
+  "version": "1.0.0",
+  "description": "a presentation showing evaluation and tasks for MinLandsby role",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck presentation.mdx",
+    "build": "mdx-deck build presentation.mdx"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-deck": "^2.0.0"
+  },
+  "keywords": [
+    "presentation"
+  ],
+  "author": "shrihari",
+  "license": "ISC"
+}
